@@ -136,14 +136,23 @@ elements = []
 
 elements.append(
     Paragraph(
-        "Software Development Work Diary",
+        "VVH SOLUTIONS DIARY",
         styles["Title"]
     )
 )
 
+elements.append(
+    Paragraph(
+        "Pasan Baddewithana",
+        styles["Heading2"]
+    )
+)
+
+elements.append(Spacer(1, 20))
+
 elements.append(Spacer(1, 12))
 
-for date in sorted(daily_summary.keys(), reverse=True):
+for date in sorted(daily_summary.keys()):
 
     elements.append(
         Paragraph(
