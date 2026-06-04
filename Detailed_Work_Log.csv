@@ -1,0 +1,126 @@
+Date,Repository,Commit
+2026-05-05,Special_pathlab_frontend,feat(confimation): logout confirmation for hospital user
+2026-05-05,Special_pathlab_frontend,"feat(enable,disable): enable,disable confirmation for lab admin list"
+2026-05-05,Special_pathlab_frontend,"feat(enable,disable): enable,disable confirmation in hospital and test lists"
+2026-05-05,Special_pathlab_frontend,feat(confirmation): test request cancel confirmation pop up
+2026-05-05,Special_pathlab_frontend,config(indicator):dev indicator removed
+2026-05-05,Special_pathlab_frontend,UI(lists): remove unneccessary medical signs
+2026-05-05,Special_pathlab_frontend,feat(logout):logout confirmation popup
+2026-05-05,Special_pathlab_frontend,feat(nav): profile link attached to the avatar circle
+2026-05-06,Special_pathlab_frontend,fix(filetype): different file types enabled for insert/view/update/delete
+2026-05-06,Special_pathlab_frontend,feat(attachment): update and delete attachment
+2026-05-06,Special_pathlab_frontend,feat(image): view images from firebase
+2026-05-06,Special_pathlab_frontend,fix(firebase): firebase stuff removed.
+2026-05-06,Special_pathlab_frontend,feat(firebase): file upload to firebase pages.
+2026-05-06,Special_pathlab_frontend,feat(file upload): file upload to the firebase
+2026-05-07,Avantio_Frontend,commit(1):repo initialize
+2026-05-07,Special_pathlab_frontend,fix(upload report): after upload xlsx error report
+2026-05-07,Special_pathlab_frontend,feat(xlsx upload): xslx files can be uploaded by lab
+2026-05-07,Special_pathlab_frontend,fix(build): build related issues fixed.
+2026-05-08,Avantio_Frontend,files(css):spereate css files added
+2026-05-08,Special_pathlab_frontend,fix(upload): upload not completing issue fixed
+2026-05-08,Special_pathlab_frontend,"fix(upload-UI):upload UI error fixed, some image imports fixed as well."
+2026-05-11,Avantio_Frontend,page(home): home page finalized
+2026-05-11,Avantio_Frontend,"page(password,home): password code modularized, sample home added"
+2026-05-11,Avantio_Frontend,feat(forgot-password): forgot password feature added.
+2026-05-11,Avantio_Frontend,repo(update): remote repo updated. changes committed to root-2
+2026-05-11,Avantio_Frontend,repo(update): remote repo updated. changes committed to root.
+2026-05-12,Avantio_Frontend,feat(studio): sample stuio added
+2026-05-12,Avantio_Frontend,Merge pull request #2 from softwaredevteam01/feat/pasan/super-admin
+2026-05-12,Avantio_Frontend,feat(admin logout): admin logout feature added to the admin header
+2026-05-12,Avantio_Frontend,Merge pull request #1 from softwaredevteam01/feat/pasan/super-admin
+2026-05-12,Avantio_Frontend,feat(user manage): user management feature integrated
+2026-05-12,Avantio_Frontend,feat(super admin): sample super admin login and dashboard
+2026-05-12,Avatio_Frontend_Admin,hotfix(admiin): remover user content and secure login portal only accesible for admin
+2026-05-12,Avatio_Frontend_Admin,initial(setupd): initial setup commited
+2026-05-13,Avantio_Frontend,Merge pull request #3 from softwaredevteam01/feat/pasan/studio
+2026-05-13,Avantio_Frontend,feat(design):sample logo and text adding feature added.
+2026-05-13,Avantio_Frontend,"hotfix(user): admin login removed, only user login exsists"
+2026-05-14,Avantio_Frontend,fix(header): login span fixed
+2026-05-14,Avantio_Frontend,Merge pull request #4 from softwaredevteam01/feat/pasan/studio
+2026-05-14,Avantio_Frontend,fix(studiocamera): tshirt studio 3d camera rotation limited for hide the depth changes.
+2026-05-14,Avantio_Frontend,fix(header): navigation issues fixed.
+2026-05-14,Avantio_Frontend,feat(screenshot): screenshots can be taken on the design
+2026-05-14,Avantio_Frontend,"fix(side views): depth changing feature added. left,right alignment not working fixed"
+2026-05-15,Avantio_Frontend,unfixed(polo-shirt): need base colorpolo shirt to take effecr.
+2026-05-18,Avantio_Frontend,feat(sample-shop): sample shop pages added.
+2026-05-18,Avantio_Frontend,Merge pull request #7 from softwaredevteam01/feat/pasan/studio
+2026-05-18,Avantio_Frontend,feat(sample-shop): sample shop pages were added.
+2026-05-18,Avantio_Frontend,Merge pull request #6 from softwaredevteam01/feat/pasan/studio
+2026-05-18,Avantio_Frontend,feat(sample-order-quotation): sample pages for order and quotations are added.
+2026-05-18,Avantio_Frontend,feat(sample-oder-quot): sample quotation and order pages with mock dates
+2026-05-18,Avantio_Frontend,Merge pull request #5 from softwaredevteam01/feat/pasan/studio
+2026-05-18,Avantio_Frontend,feat(sample-profile): sample profile page added.
+2026-05-18,Avantio_Frontend,feat(sample-profile): sample profile page added
+2026-05-18,Avantio_Frontend,feat(sample-orders): sample orders page added
+2026-05-18,Avantio_Frontend,feat(sample-orders): sample order pages added.
+2026-05-19,Avantio_Frontend,fix(merge): merge conflicts fixed.
+2026-05-19,Avantio_Frontend,Merge pull request #10 from softwaredevteam01/feat/pasan/studio-polo
+2026-05-19,Avantio_Frontend,Merge branch 'main' into feat/pasan/studio-polo
+2026-05-19,Avantio_Frontend,"feat(API): color, size material, print method getting apis integrated."
+2026-05-19,Avantio_Frontend,"feat(POLO,TSHIRT): both models were get in to a single branch."
+2026-05-19,Avantio_Frontend,fix(polo.glb): plain T shirt model found.
+2026-05-19,Avantio_Frontend,Merge pull request #9 from softwaredevteam01/feat/pasan/studio
+2026-05-19,Avantio_Frontend,feat(auth-rotes): auth rotes added to the new pages.
+2026-05-19,Avantio_Frontend,feat(auth): auth was added to newly created pages.
+2026-05-19,Avantio_Frontend,feat(sample-checkout): sample checkout pages added.
+2026-05-19,Avantio_Frontend,Merge pull request #8 from softwaredevteam01/feat/pasan/studio
+2026-05-19,Avantio_Frontend,feat(sample-checkout): sample checkout pages added.
+2026-05-20,Avantio_Frontend,feat(get-saved): get saved design by id api integrated.
+2026-05-20,Avantio_Frontend,feat(saved-designs): save design listing api added.
+2026-05-20,Avantio_Frontend,feat(saved): saved design page added.
+2026-05-20,Avantio_Frontend,feat(order): place order / save order features added.
+2026-05-20,Avantio_Frontend,feat(screenshot): screenshot get captured and send to the firebase.
+2026-05-20,Avantio_Frontend,feat(firebase): firebase file added
+2026-05-20,Avantio_Frontend,feat(firebase): firebase module added-1
+2026-05-21,Avantio_Frontend,caution(order-histroy): order histroy page created. apis needed to be changed.
+2026-05-21,Avantio_Frontend,feat(update-design): update design feature added.
+2026-05-25,Avantio_Frontend,UX(pagination): pagination facility added for the order and design list pages.
+2026-05-25,Avantio_Frontend,feat(dashboard): dashboard data from real API data-2
+2026-05-25,Avantio_Frontend,feat(dashboard): dashboard deatils added from real API data-1
+2026-05-25,Avantio_Frontend,feat(profile): profile page APIS integrated.
+2026-05-25,Avantio_Frontend,feat(design-api): new design api integrated
+2026-05-26,Avantio_Frontend,fix(build): build error fixed.
+2026-05-26,Avantio_Frontend,fix(payment): payment model visibility fixed.
+2026-05-26,Avantio_Frontend,feat(payment): payment api added and order page simplified.
+2026-05-26,Avantio_Frontend,"feat(payment,rejection): customer pay or reject quotation)."
+2026-05-26,Avantio_Frontend,fix(order-page): order page reestablished.
+2026-05-26,Avantio_Frontend,fix(dasboard): fix dashboard orders and profile details not showing up.
+2026-05-26,Avantio_Frontend,Merge pull request #11 from softwaredevteam01/feat/pasan/new-studio
+2026-05-26,Avantio_Frontend,"feat(handbands,collar): colors applied seperately for the collar and handbands."
+2026-05-26,Avantio_Frontend,new(polo-model): new polo model added.
+2026-05-27,Avantio_Frontend,fix(footer): footer details updated.
+2026-05-27,Avantio_Frontend,fix(favicon): favicon changed to avantio
+2026-05-27,Avantio_Frontend,fix(shop): sample shop page mobile optimized
+2026-05-27,Avantio_Frontend,feat(dashboard): dashboard details completed.
+2026-05-27,Avantio_Frontend,feat(single-order): single order can view by id
+2026-05-27,Avantio_Frontend,Merge pull request #12 from softwaredevteam01/feat/pasan/studio-mobile-responsive
+2026-05-27,Avantio_Frontend,feat(studio-mobile): studio page optimized for mobile view
+2026-05-28,Avantio_Frontend,"feat(payment): payment status issues fixed, new page added to show single payment."
+2026-05-28,Avantio_Frontend,fix(edit-studio): proceed button relocated
+2026-05-28,Avantio_Frontend,fix(quotatio-status): quotation status pending issue fixed
+2026-05-28,Avantio_Frontend,fix(profile): profile page mobile optimized
+2026-05-28,Avantio_Frontend,fix(model): only POLO T shirt model is appear in the edit studio.
+2026-05-28,Avantio_Frontend,fix(img): image loading warnings fixed
+2026-05-28,Avantio_Frontend,"fix(model,proceed): tshirt removed, proceed button relocated"
+2026-05-29,Avantio_Frontend,fix(quotation): quotation view updated.
+2026-05-29,Avantio_Frontend,feat(payment): new payment api and the schemas introduced.
+2026-05-29,Avantio_Frontend,fix(payment): get payment by id updated
+2026-05-29,Avantio_Frontend,"fix(identation,editor): fixed the indentation and editor errors"
+2026-05-29,Avantio_Frontend,fix(identation): identation fixed
+2026-05-29,Avantio_Frontend,fix(identation): identation and editor level issues fixed in pages.
+2026-05-29,Avantio_Frontend,fix(payment): add missed payment details and fixed build related issues
+2026-06-01,Avantio_Frontend,Merge pull request #13 from softwaredevteam01/feat/pasan/studio-mobile
+2026-06-01,Avantio_Frontend,feat(mobile-studio): design studios are mobile optimized
+2026-06-01,Avantio_Frontend,"feat(studio,send): studio right panel validations & pdfs not shwoing up @edit-send fixed"
+2026-06-01,Avantio_Frontend,feat(studio): new studio with image overlay feature added
+2026-06-02,Avantio_Frontend,UI(confirmation): confirmation model added.
+2026-06-02,Avantio_Frontend,feat(resend-otp): otp resend feature added for the login
+2026-06-02,Avantio_Frontend,feat(order-dashboard): order dashboard quotation expired
+2026-06-02,Avantio_Frontend,feat(quotation): quotation expired feature added.
+2026-06-02,Avantio_Frontend,feat(re-payment): payment slip reupload function added
+2026-06-02,Avantio_Frontend,"fix(images): left,right images shows in send pages and proceed button mves to product tab."
+2026-06-03,Avantio_Frontend,fix(protected): protected route added for the desgn library.
+2026-06-03,Avantio_Frontend,Merge pull request #14 from softwaredevteam01/feat/pasan/UI-1
+2026-06-03,Avantio_Frontend,feat(toast): toast messages added.
+2026-06-04,Avantio_Frontend,fix(npm): npm audit force fixed
